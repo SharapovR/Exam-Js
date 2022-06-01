@@ -1,0 +1,27 @@
+/* * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} */
+
+
+/* 14.
+loop ishlating (farqi yo'q qaysi) Konsolga chiqarish 10 11 9 12 8 13 7 14 6 15 5 16 4 17 3 18 2 19 1 20 0
+
+2.
+Foydalanuvchidan yoshni so’raydigan dasturni tuzing. Yosh 50 dan y uqori bo’lsa, dastur “Siz kattasiz” deb chiqarib berishi kerak. Yosh 50 dan past bo’lsa “Siz yoshsiz” deb chiqarib berishi kerak.
+
+
+22.
+bar() funksiyasi bor u 3 ta sonni bir biriga ko'paytirib qaytarishi kerak
+ushbu vazifani bajaruvchi kod yozing
+
+11. 
+loop keyingi qadamga o'tsin agar i 5 ga teng bo'lsa
+
+for (i = 0; i < 10; i++) {
+  if (i == 5) {
+     _________
+  }
+  console.log(i)
+} */
